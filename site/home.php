@@ -23,7 +23,7 @@
                 <h5 class="card-title">Agendamento</h5>
                 <p class="card-text">Realize um agendamento para manutenção de sua motocicleta</p>
                 <form action="../controlador/tipo_servico.php" method="POST">
-                    <a href="http://localhost/apmotors/site/interface/formCadastraAgendamento.php" class="btn btn-warning" value="">Realizar Agendamento</a>
+                    <a href="https://testediogo.herokuapp.com/site/interface/formCadastraAgendamento.php" class="btn btn-warning" value="">Realizar Agendamento</a>
                 </form>
             </div>
         </div>
@@ -34,7 +34,7 @@
                 <h5 class="card-title">Loja</h5>
                 <p class="card-text">Visite nossa loja e adquira peças perfeitas e unicas para sua motocicleta</p>
                 <form action="../controlador/tipo_servico.php" method="POST">
-                    <a href="http://localhost/apmotors/site/interface/listaProdutos.php" class="btn btn-success" value="">Visitar loja</a>
+                    <a href="https://testediogo.herokuapp.com/site/interface/listaProdutos.php" class="btn btn-success" value="">Visitar loja</a>
                 </form>
             </div>
         </div>
@@ -45,7 +45,7 @@
                 <h5 class="card-title">vistoria</h5>
                 <p class="card-text">Realize um agendamento para vistoria de sua motocicleta</p>
                 <form action="../controlador/tipo_servico.php" method="POST">
-                    <a href="http://localhost/apmotors/site/interface/formCadastraAgendamento.php" class="btn btn-warning" value="">Realizar vistoria</a>
+                    <a href="https://testediogo.herokuapp.com/site/interface/formCadastraAgendamento.php" class="btn btn-warning" value="">Realizar vistoria</a>
                 </form>
             </div>
         </div>
